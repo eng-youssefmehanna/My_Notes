@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: eng-youssefmehanna.github.io/My_Notes
   ignorePatterns:
     - private
     - templates
